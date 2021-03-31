@@ -1,0 +1,23 @@
+Total time taken for inserting 10 cards is 0.000000 ms.
+Stack size is 636
+Total time taken for sorting 10 cards is 0.000000 ms.
+
+Total time taken for inserting 100 cards is 0.000000 ms.
+Stack size is 6396
+Total time taken for sorting 100 cards is 0.000000 ms.
+
+Total time taken for inserting 1000 cards is 2.992000 ms.
+Stack size is 63996
+Total time taken for sorting 1000 cards is 6.980000 ms.
+
+Total time taken for inserting 10000 cards is 39.889000 ms.
+Stack size is 639996
+Total time taken for sorting 10000 cards is 549.531000 ms.
+
+Total time taken for inserting 20000 cards is 208.443000 ms.
+Stack size is 1279996
+Total time taken for sorting 20000 cards is 2218.120000 ms.
+
+Total time taken for inserting 30000 cards is 361.036000 ms.
+Stack size is 1919996
+Total time taken for sorting 30000 cards is 5083.575000 ms.

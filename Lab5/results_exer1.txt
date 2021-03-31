@@ -1,0 +1,5 @@
+Total time taken for 10 credit cards is 0.000000 ms.
+Total time taken for 100 credit cards is 0.000000 ms.
+Total time taken for 1000 credit cards is 0.995000 ms.
+Total time taken for 10000 credit cards is 38.957000 ms.
+Total time taken for 100000 credit cards is 6730.999000 ms.
